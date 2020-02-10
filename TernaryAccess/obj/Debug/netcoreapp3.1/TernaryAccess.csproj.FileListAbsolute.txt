@@ -9,3 +9,6 @@ C:\Repos\TernaryAccess\TernaryAccess\bin\Debug\netcoreapp3.1\TernaryAccess.dll
 C:\Repos\TernaryAccess\TernaryAccess\bin\Debug\netcoreapp3.1\TernaryAccess.pdb
 C:\Repos\TernaryAccess\TernaryAccess\obj\Debug\netcoreapp3.1\TernaryAccess.dll
 C:\Repos\TernaryAccess\TernaryAccess\obj\Debug\netcoreapp3.1\TernaryAccess.pdb
+C:\Repos\TernaryAccess\TernaryAccess\bin\Debug\netcoreapp3.1\SalesLibrary.dll
+C:\Repos\TernaryAccess\TernaryAccess\bin\Debug\netcoreapp3.1\SalesLibrary.pdb
+C:\Repos\TernaryAccess\TernaryAccess\obj\Debug\netcoreapp3.1\TernaryAccess.csproj.CopyComplete

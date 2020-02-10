@@ -1,0 +1,7 @@
+C:\Repos\TernaryAccess\SalesLibrary\bin\Debug\netcoreapp3.1\SalesLibrary.deps.json
+C:\Repos\TernaryAccess\SalesLibrary\bin\Debug\netcoreapp3.1\SalesLibrary.dll
+C:\Repos\TernaryAccess\SalesLibrary\bin\Debug\netcoreapp3.1\SalesLibrary.pdb
+C:\Repos\TernaryAccess\SalesLibrary\obj\Debug\netcoreapp3.1\SalesLibrary.AssemblyInfoInputs.cache
+C:\Repos\TernaryAccess\SalesLibrary\obj\Debug\netcoreapp3.1\SalesLibrary.AssemblyInfo.cs
+C:\Repos\TernaryAccess\SalesLibrary\obj\Debug\netcoreapp3.1\SalesLibrary.dll
+C:\Repos\TernaryAccess\SalesLibrary\obj\Debug\netcoreapp3.1\SalesLibrary.pdb
