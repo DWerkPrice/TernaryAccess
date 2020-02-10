@@ -1,0 +1,11 @@
+C:\Repos\TernaryAccess\TernaryAccess\obj\Debug\netcoreapp3.1\TernaryAccess.csprojAssemblyReference.cache
+C:\Repos\TernaryAccess\TernaryAccess\obj\Debug\netcoreapp3.1\TernaryAccess.AssemblyInfoInputs.cache
+C:\Repos\TernaryAccess\TernaryAccess\obj\Debug\netcoreapp3.1\TernaryAccess.AssemblyInfo.cs
+C:\Repos\TernaryAccess\TernaryAccess\bin\Debug\netcoreapp3.1\TernaryAccess.exe
+C:\Repos\TernaryAccess\TernaryAccess\bin\Debug\netcoreapp3.1\TernaryAccess.deps.json
+C:\Repos\TernaryAccess\TernaryAccess\bin\Debug\netcoreapp3.1\TernaryAccess.runtimeconfig.json
+C:\Repos\TernaryAccess\TernaryAccess\bin\Debug\netcoreapp3.1\TernaryAccess.runtimeconfig.dev.json
+C:\Repos\TernaryAccess\TernaryAccess\bin\Debug\netcoreapp3.1\TernaryAccess.dll
+C:\Repos\TernaryAccess\TernaryAccess\bin\Debug\netcoreapp3.1\TernaryAccess.pdb
+C:\Repos\TernaryAccess\TernaryAccess\obj\Debug\netcoreapp3.1\TernaryAccess.dll
+C:\Repos\TernaryAccess\TernaryAccess\obj\Debug\netcoreapp3.1\TernaryAccess.pdb
